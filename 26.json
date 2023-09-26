@@ -1,0 +1,23 @@
+{
+  "description": "Level 7 black card, which can help you mine a large amount of diamonds quickly", 
+  "image": "https://fish.nftapps.net/3-7.png", 
+  "name": "Level 7 black card",
+  "attributes": [
+    {
+      "trait_type": "Quality", 
+      "value": "3"
+    }, 
+    {
+      "trait_type": "Level", 
+      "value": "7"
+    }, 
+    {
+      "trait_type": "Efficiency", 
+      "value": "145"
+    }, 
+    {
+      "trait_type": "Durability", 
+      "value": "100"
+    }
+  ]
+}

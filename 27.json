@@ -1,0 +1,23 @@
+{
+  "description": "Level 8 black card, which can help you mine a large amount of diamonds quickly", 
+  "image": "https://fish.nftapps.net/3-8.png", 
+  "name": "Level 8 black card",
+  "attributes": [
+    {
+      "trait_type": "Quality", 
+      "value": "3"
+    }, 
+    {
+      "trait_type": "Level", 
+      "value": "8"
+    }, 
+    {
+      "trait_type": "Efficiency", 
+      "value": "162"
+    }, 
+    {
+      "trait_type": "Durability", 
+      "value": "100"
+    }
+  ]
+}

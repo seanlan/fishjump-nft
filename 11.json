@@ -1,0 +1,23 @@
+{
+  "description": "Level 1 gold card, which can help you mine diamonds and synthesize higher-level cards", 
+  "image": "https://fish.nftapps.net/2-1.png", 
+  "name": "Level 1 gold card",
+  "attributes": [
+    {
+      "trait_type": "Quality", 
+      "value": "2"
+    }, 
+    {
+      "trait_type": "Level", 
+      "value": "1"
+    }, 
+    {
+      "trait_type": "Efficiency", 
+      "value": "10"
+    }, 
+    {
+      "trait_type": "Durability", 
+      "value": "100"
+    }
+  ]
+}

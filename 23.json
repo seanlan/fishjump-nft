@@ -1,0 +1,23 @@
+{
+  "description": "Level 4 black card, which can help you mine a large amount of diamonds quickly", 
+  "image": "https://fish.nftapps.net/3-4.png", 
+  "name": "Level 4 black card",
+  "attributes": [
+    {
+      "trait_type": "Quality", 
+      "value": "3"
+    }, 
+    {
+      "trait_type": "Level", 
+      "value": "4"
+    }, 
+    {
+      "trait_type": "Efficiency", 
+      "value": "100"
+    }, 
+    {
+      "trait_type": "Durability", 
+      "value": "100"
+    }
+  ]
+}

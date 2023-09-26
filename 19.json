@@ -1,0 +1,23 @@
+{
+  "description": "Level 9 gold card, which can help you mine diamonds and synthesize higher-level cards", 
+  "image": "https://fish.nftapps.net/2-9.png", 
+  "name": "Level 9 gold card",
+  "attributes": [
+    {
+      "trait_type": "Quality", 
+      "value": "2"
+    }, 
+    {
+      "trait_type": "Level", 
+      "value": "9"
+    }, 
+    {
+      "trait_type": "Efficiency", 
+      "value": "54"
+    }, 
+    {
+      "trait_type": "Durability", 
+      "value": "100"
+    }
+  ]
+}

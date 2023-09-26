@@ -1,0 +1,23 @@
+{
+  "description": "Level 7 gold card, which can help you mine diamonds and synthesize higher-level cards", 
+  "image": "https://fish.nftapps.net/2-7.png", 
+  "name": "Level 7 gold card",
+  "attributes": [
+    {
+      "trait_type": "Quality", 
+      "value": "2"
+    }, 
+    {
+      "trait_type": "Level", 
+      "value": "7"
+    }, 
+    {
+      "trait_type": "Efficiency", 
+      "value": "37"
+    }, 
+    {
+      "trait_type": "Durability", 
+      "value": "100"
+    }
+  ]
+}

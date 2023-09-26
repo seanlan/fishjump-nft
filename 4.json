@@ -1,0 +1,23 @@
+{
+  "description": "Level 3 silver card, which can help you mine diamonds and synthesize higher-level cards", 
+  "image": "https://fish.nftapps.net/1-3.png", 
+  "name": "Level 3 silver card",
+  "attributes": [
+    {
+      "trait_type": "Quality", 
+      "value": "1"
+    }, 
+    {
+      "trait_type": "Level", 
+      "value": "3"
+    }, 
+    {
+      "trait_type": "Efficiency", 
+      "value": "3"
+    }, 
+    {
+      "trait_type": "Durability", 
+      "value": "100"
+    }
+  ]
+}
